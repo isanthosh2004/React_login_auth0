@@ -5,6 +5,8 @@ This React application demonstrates a simple login page integrated with Auth0 au
 
 **NOTE:** The node modules files are exempted from uploading because of large size of files.
 
+![Screenshot 2024-01-17 115225](https://github.com/isanthosh2004/React_login_auth0/assets/112749784/cb01bdd7-95dc-4e6b-b298-5f44b09a70a4)
+
 ## Features
 
 - **Authentication Buttons**: The app provides a seamless user experience with buttons for both logging in and logging out.
@@ -12,6 +14,8 @@ This React application demonstrates a simple login page integrated with Auth0 au
 - **Profile Display**: Upon successful authentication, the user's profile information is displayed, including their name, picture, and additional details.
 
 - **Error Handling**: The application gracefully handles authentication errors, providing informative messages to users.
+  
+![Screenshot 2024-01-17 113949](https://github.com/isanthosh2004/React_login_auth0/assets/112749784/503ef02d-e3af-4d0b-8281-b72c05c19c02)
 
 ## Usage
 
