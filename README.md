@@ -25,4 +25,4 @@ This React application demonstrates a simple login page integrated with Auth0 au
 
 The usage of optional chaining in the code simplifies the handling of potential `null` or `undefined` values, making the code more concise and less error-prone. For instance, the `Profile` component utilizes optional chaining when accessing user properties, ensuring a smooth user experience even if certain information is not available.
 
-Feel free to explore and customize this Auth0-integrated login page for your React projects! For detailed instructions on setting up Auth0, refer to the official [Auth0 documentation](https://auth0.com/docs/quickstart/spa/react).
+
