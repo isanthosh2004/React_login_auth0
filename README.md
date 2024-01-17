@@ -2,7 +2,8 @@
 # Auth0 React Login Page
 
 This React application demonstrates a simple login page integrated with Auth0 authentication using the `@auth0/auth0-react` library. The login page is built with optional chaining, allowing for concise and readable code.
-**note** The node modules files are exempted from uploading because of large size of files.
+
+**NOTE:** The node modules files are exempted from uploading because of large size of files.
 
 ## Features
 
